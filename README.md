@@ -1,3 +1,3 @@
 # demo1
 <br>
-author - Tushar singh
+author - Tushar (singh) ji
